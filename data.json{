@@ -1,0 +1,6 @@
+data.json{
+  "users": [
+    {"username": "admin", "password": "1234"}
+  ],
+  "posts": []
+}

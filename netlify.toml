@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/mybad.html"
+status = 200
